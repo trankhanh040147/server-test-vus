@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name mkt-test.vus.edu.vn;
+    server_name mkt-sv-testing-01.vus.edu.vn;
     return 301 https://$host$request_uri;
 }
 
@@ -16,13 +16,13 @@ server {
     root $path_root;
     index index.php;
 
-    server_name mkt-test.vus.edu.vn;
+    server_name mkt-sv-testing-01.vus.edu.vn;
 
     client_max_body_size 20M;
     client_body_buffer_size 1024k;
 
-    ssl_certificate     /home/www/VUS-MKT/vus2024.crt;
-    ssl_certificate_key /home/www/VUS-MKT/vus2024.key;
+    ssl_certificate     /home/www/server-test-vus/vus2024.crt;
+    ssl_certificate_key /home/www/server-test-vus/vus2024.key;
     ssl_protocols       TLSv1 TLSv1.1 TLSv1.2;
     ssl_ciphers         HIGH:!aNULL:!MD5;
 
@@ -63,25 +63,6 @@ limit_conn addr 20;
 
     }
     
-    #### rewrite url
-    location /news {
-            rewrite ^/news /ban-tin permanent;
-    }
-
-    location ~ ^/news/(.*) {
-            rewrite ^/news(.*) /ban-tin permanent;
-    }
-
-    location /programs {
-            rewrite ^/programs /findcourses permanent;
-    }
-
-    location ~ ^/programs/(.*) {
-            rewrite ^/programs(.*) /findcourses permanent;
-    }
-    location /luyen-thi-ielts {
-            rewrite ^/luyen-thi-ielts(.*)$ https://english.vus.edu.vn/ielts.html redirect;
-    }
 
 # nginx configuration
 
