@@ -1,0 +1,66 @@
+[04-Jan-2024 02:03:22 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:22 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:22 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:22 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:23 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:23 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:23 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:23 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:24 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:24 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:24 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:24 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:24 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:24 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:26 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:26 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:26 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:26 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:26 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:26 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:27 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:27 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:27 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:27 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:03:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:52 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:52 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:52 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:52 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:53 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:53 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:53 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:54 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:54 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:11:54 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:31 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:31 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:31 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:31 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:31 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:31 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:32 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:32 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:33 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:33 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 02:12:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:03:15 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:03:15 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:03:15 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:03:16 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:03:16 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:03:16 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:04:01 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:04:01 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:04:01 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:04:01 UTC] PHP Warning:  mysqli_real_connect(): This stream does not support SSL/crypto in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:04:01 UTC] PHP Warning:  mysqli_real_connect(): Cannot connect to MySQL by using SSL in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775
+[04-Jan-2024 03:04:01 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002):  (trying to connect via (null)) in D:\myData\CodeStorage\WordPressPrj\wordpress\wp-includes\class-wpdb.php on line 1775

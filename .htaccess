@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^api-proxy$ D:/myData/CodeStorage/WordPressPrj/wordpress/api-proxy/api-proxy.php [L]
