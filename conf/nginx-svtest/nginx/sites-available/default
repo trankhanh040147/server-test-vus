@@ -38,10 +38,11 @@ server {
 	#
 	# include snippets/snakeoil.conf;
 
-	root /var/www/html;
+	#root /var/www/html;
+	root /home/www/server-test-vus;
 
 	# Add index.php to the list if you are using PHP
-	index index.html index.htm index.nginx-debian.html;
+	index index.html index.htm index.nginx-debian.html index.php;
 
 	server_name _;
 
