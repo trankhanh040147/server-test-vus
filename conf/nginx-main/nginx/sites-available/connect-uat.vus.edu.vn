@@ -1,0 +1,48 @@
+
+server {
+#    listen 80;
+    server_name remove.connect-uat.vus.edu.vn;
+
+#allow 171.252.155.106;
+#allow 14.174.198.97;
+#deny all;
+
+#server_name_in_redirect off;
+#proxy_set_header Host $host:9088;
+
+    root /home/www/VUS-CONNECT/vu_coreedu_fe/src/app/.next/;
+
+    index index.js;
+
+    location / {
+#	proxy_set_header X-Real-IP $remote_addr;
+#	proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+	proxy_pass http://localhost:9088;        
+	proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+
+#	try_files $uri $uri/ =404;
+    }
+
+#    location ~ \.php$ {
+#        include snippets/fastcgi-php.conf;
+#        fastcgi_pass unix:/var/run/php/php7.4-fpm.sock;
+#     }
+
+    location ~ /\.ht {
+        deny all;
+    }
+
+
+    listen 80; # managed by Certbot
+
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/connect-uat.vus.edu.vn/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/connect-uat.vus.edu.vn/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
